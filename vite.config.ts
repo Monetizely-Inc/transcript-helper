@@ -13,5 +13,5 @@ export default defineConfig({
       "@": fileURLToPath(new URL("./src", import.meta.url)),
     },
   },
-  base: "https://monetizely-inc.github.io/transcript-helper/",
+  base: "/transcript-helper/",
 });
